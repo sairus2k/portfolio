@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #747704;
+}
+
+hr {
+    border-top: 2px solid #bcbbbb;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+.header h1 {
+    font-size: 48px;
+}
+
+.header h3 {
+    font-size: 18px;
+}
+
+.avatar {
+    height: 116px;
+}
+
+.featured {
+    margin-bottom: 20px;
+}
+
+.featured img {
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.footer {
+    margin-bottom: 40px;
+}
